@@ -1,4 +1,3 @@
-# Fake-News-Detection-with-Machine-Learning
 <a name="readme-top"></a>
 <div align="center">
   <p align="center">
