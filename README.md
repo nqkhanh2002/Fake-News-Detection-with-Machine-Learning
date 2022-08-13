@@ -9,4 +9,4 @@
   </p>
 </div>
 
-<h1 align="center"> Facial Expression Recognition </h1>
+<h1 align="center">Fake News Detection with Machine Learning</h1>
