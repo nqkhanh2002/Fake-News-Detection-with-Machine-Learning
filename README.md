@@ -1,2 +1,13 @@
 # Fake-News-Detection-with-Machine-Learning
-In this work, I trained a Long Short Term Memory (LSTM) network to detect fake news from a given news corpus. This project could be practically used by media companies to automatically predict whether the circulating news is fake or not. The process could be done automatically without having humans manually review thousands of news-related articles.
+<a name="readme-top"></a>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/nqkhanh2002/Fake-News-Detection-with-Machine-Learning/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/nqkhanh2002/Fake-News-Detection-with-Machine-Learning/issues">Request Feature</a>
+  </p>
+</div>
+
+<h1 align="center"> Facial Expression Recognition </h1>
